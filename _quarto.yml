@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+  
+website:
+  title: "ENVS193DS-website_assignment"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - project.qmd
+      - free for all.qmd
+      - resume.qmd
+
+format:
+  html:
+    theme: 
+        light: flatly
+        dark: darkly
+    css: styles.css
+    toc: true
+    page-layout: full
+editor: visual
+

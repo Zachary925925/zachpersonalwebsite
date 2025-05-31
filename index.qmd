@@ -1,0 +1,18 @@
+---
+title: "Zach Wang"
+subtitle: ES193DS selfchoose assignment
+image: media/headshot.jpeg
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 17em
+  links:
+    - text: GitHub
+      href: https://github.com/Zachary925925
+    - text: Email
+      href: wangzachary925@gmail.com
+---
+
+Hi! I am Zach. I am a 3rd year undergraduate student in UCSB majoring Environmental Studies. I am typically interested in renewable energy field. I am also a member of CETlab in ucsb, currently working with raw data and building models for electricity power grid system. Outside of school, I enjoy hiking, landscape photographing, and car racing. I have hiked and camped in Iceland, Holland, US, and China. Feel free to poke around my website to learn more!
+
+hi
